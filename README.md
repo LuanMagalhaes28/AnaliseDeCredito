@@ -17,8 +17,8 @@ A análise busca apoiar a tomada de decisões estratégicas em empresas financei
 
 ---
 ## 🛠 Ferramentas Utilizadas
-Esse projeto foi realizado utilizando Excel, com tabelas dinâmicas, gráficos e fórmulas para realizar segmentação de informações.
-Para apresentação do projeto foi utilizado o Canva.
+- Excel: Utilizando tabelas dinâmicas, gráficos e fórmulas para realizar segmentação de informações.
+- Canva: Para apresentação do projeto.
 
 ---
 ## 🗂️ Estrutura do Projeto
