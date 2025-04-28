@@ -16,7 +16,11 @@ A análise busca apoiar a tomada de decisões estratégicas em empresas financei
 - **Gerar insights de negócio** para campanhas de marketing, concessão de crédito e gestão de risco.
 
 ---
+## 🛠 Ferramentas Utilizadas
+Esse projeto foi realizado utilizando Excel, com tabelas dinâmicas, gráficos e fórmulas para realizar segmentação de informações.
+Para apresentação do projeto foi utilizado o Canva.
 
+---
 ## 🗂️ Estrutura do Projeto
 
 ## 📈 Resultados e Insights
